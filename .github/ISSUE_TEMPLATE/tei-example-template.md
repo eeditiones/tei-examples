@@ -15,13 +15,15 @@ name of the example
 
 briefly describe your sample file in terms of genre, period and any particularities of the material that may be of interest for teaching or preparing a TEI Publisher Demo example, e.g.
 
-Date of origin: 1798-03-24
-Shelfmark: StASZ HA.IV. 470.004, Nr. 115
-Language: German
-Transmission: Draft, 2 pages
-Medium: paper
-Content: Schwyz entlässt Gams in die Freiheit
-Genre: 
+> 18century manuscript record with structural (divisions), transcriptional features (abbreviations, additions, corrections, deletions, illegible fragments) and semantic information (people, places, dates, terms, organisations) encoded.
+
+> Date of origin: 1798-03-24
+> Shelfmark: StASZ HA.IV. 470.004, Nr. 115
+> Language: German
+> Transmission: Draft, 2 pages
+> Medium: paper
+> Content: Schwyz entlässt Gams in die Freiheit
+> Genre: 
 
 ## Licence
 
@@ -29,21 +31,22 @@ Specify the licence under which your file is available. It should be also explic
 
 ## Files
 
+Ideally create a zipped archive including all the files: xml sources, odd, facsimile images and page template. Otherwise you can provide links to these resources (if hosted online).
+
+Avoid spaces and special characters (like `(` or `/`) in the filenames.
+
 ### TEI source file (.xml)
 
-link to the document, attach a zipped file or paste it within the xml code section below. Avoid spaces and special characters (like `(` or `/`) in the filename.
+list xml files
 
-```xml
-Paste your TEI file here if you can't host or attach a file
-```
 ### Facsimile(s)
 
-link to or attach the image(s)
+list images
 
 ### Layout template (.html)
 
-If you have a particular layout template in mind for presenting your material, attach it or provide a sketch with a brief description.
+If you already have a TEI Publisher compatible layout template for presenting your material, include it in the zipped archive. Otherwise you can specify your requirements, ideally also providing a sketch with a brief description.
 
 ### ODD (.odd)
 
-If you have an ODD file with processing models, link or attach it.
+If you have an ODD file with processing models include it in the zipped archive.
