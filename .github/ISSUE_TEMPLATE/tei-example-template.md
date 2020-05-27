@@ -18,11 +18,17 @@ briefly describe your sample file in terms of genre, period and any particularit
 > 18century manuscript record with structural (divisions), transcriptional features (abbreviations, additions, corrections, deletions, illegible fragments) and semantic information (people, places, dates, terms, organisations) encoded.
 
 > Date of origin: 1798-03-24
+
 > Shelfmark: StASZ HA.IV. 470.004, Nr. 115
+
 > Language: German
+
 > Transmission: Draft, 2 pages
+
 > Medium: paper
+
 > Content: Schwyz entlässt Gams in die Freiheit
+
 > Genre: 
 
 ## Licence
