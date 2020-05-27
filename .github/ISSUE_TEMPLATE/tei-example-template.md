@@ -2,7 +2,7 @@
 name: TEI example template
 about: Template for adding a new TEI example
 title: "[example] "
-labels: ''
+labels: example
 assignees: ''
 
 ---
