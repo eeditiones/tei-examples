@@ -4,7 +4,7 @@ Collection of TEI sample files intended to be used for teaching and as specimens
 
 ## Demo Collection
 
-TEI Publisher provides a community-curated Demo Collection of encoded TEI samples of varied material. All the examples have been based on existing material from real editorial projects. It has proven a very useful resource for showcasing the possibilities of using TEI Publisher as an open source publishing platform but also as a repository of best-practice TEI encodings for numerous practical applications.
+TEI Publisher provides a community-curated Demo Collection of encoded TEI samples of varied material. All the examples have been based on existing material shared by real editorial projects. It has proven a very useful resource for showcasing the possibilities of using TEI Publisher as an open source publishing platform but also as a repository of best-practice TEI encodings for numerous practical applications.
 
 The Demo Collection has truly grassroot origin and spirit and we'd love to see as many interesting examples from varied domains as possible. Everyone is invited to contribute a sample which demonstrates either a type of encoding or manner of presentation that is not yet covered. Please read the guidelines for contributions below.
 
@@ -16,6 +16,7 @@ Please feel free to propose examples beyond these topics:
 * encoding of textual variants in parallel-segmentation method
 * encoding of textual variants in other methods
 * samples using ROI encoding for lines, words or even single glyphs
+* RTL and non-European script text samples (ideally with translation into English or other language to make it work as an example for users who can't read the script)
 
 ## Contributing
 
@@ -35,5 +36,6 @@ If you're happy working with Git and can provide a complete example for TEI Publ
 * xml file with a `licence` element and TEI Publisher processing instruction specifying required odd and template
 * odd file with processing models
 * TEI Publisher compatible page template
+* facsimile images (where applicable, no need to do that if they are stored in IIIF server somewhere already)
 
 Please mention the issue number in your PR so we don't lose track of the discussion.
