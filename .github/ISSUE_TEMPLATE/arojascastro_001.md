@@ -1,7 +1,7 @@
 ---
-name: TEI example template
-about: Template for adding a new TEI example
-title: "["Canción VI" de Luis de Góngora. Edición digital] "
+name: TEI example with textual variants 
+about: TEI encoding of Canción VI of Luis de Góngora
+title: "[Canción VI de Luis de Góngora. Edición digital] "
 labels: parallel-segmentation, poetry, textual variants
 assignees: '@arojascastro'
 
