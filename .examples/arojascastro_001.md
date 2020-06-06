@@ -1,5 +1,5 @@
 ---
-name: TEI example with textual variants 
+name: TEI example with textual variants
 about: TEI encoding of Canción VI of Luis de Góngora
 title: "[Canción VI de Luis de Góngora. Edición digital] "
 labels: parallel-segmentation, poetry, textual variants
@@ -13,7 +13,7 @@ assignees: '@arojascastro'
 
 ## Description
 
-17 century song in Spanish by Luis de Góngora with structural divisions (stanzas), normalized spelling and withouth semantic information encoded. The textual variants were encoded using the parallel-segmentation method to create a negative apparatus. The list of witnesses contains a bibliographic description of 16 documents (manuscripts and printed books). The base text is preserved in the Biblioteca Nacional de España (Madrid) with Shelfmark Res. 45, 45 bis y 46. 
+17 century song in Spanish by Luis de Góngora with structural divisions (stanzas), normalized spelling and withouth semantic information encoded. The textual variants were encoded using the parallel-segmentation method to create a negative apparatus. The list of witnesses contains a bibliographic description of 16 documents (manuscripts and printed books). The base text is preserved in the Biblioteca Nacional de España (Madrid) with Shelfmark Res. 45, 45 bis y 46.
 
 > Date of origin: 1600
 
@@ -37,7 +37,7 @@ Creative Commons By 4.0 International
 
 ## Files
 
-https://github.com/arojascastro/workshops/blob/master/textos_poeticos/ejercicios/soluciones/edicion_variantes.xml 
+https://github.com/arojascastro/workshops/blob/master/textos_poeticos/ejercicios/soluciones/edicion_variantes.xml
 
 ### TEI source file (.xml)
 
@@ -53,4 +53,4 @@ Not available at the moment. The layout should be simple and perhaps show variat
 
 ### ODD (.odd)
 
-Not available at the moment. 
+Not available at the moment.
